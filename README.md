@@ -249,7 +249,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![img graph of depreciation](https://github.com/TSLSouth/US-Stocks-Behaviour-During-Financial-Crisis-2008/blob/main/img/graph%20depreciation.png#gh-light-mode)
+![img graph of depreciation](https://github.com/TSLSouth/US-Stocks-Behaviour-During-Financial-Crisis-2008/blob/main/img/graph%20depreciation.png)
 
 <br>
 
