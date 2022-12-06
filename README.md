@@ -116,7 +116,7 @@ A sample looks like that:
 BAC.head()
 ```
 
-![img ticker dataframe](https://github.com/TSLSouth/US-Stocks-Behaviour-During-Financial-Crisis-2008/blob/main/img/ticker%20data%20frame.png?raw=true#gh-light-mode)
+![img ticker dataframe](https://github.com/TSLSouth/US-Stocks-Behaviour-During-Financial-Crisis-2008/blob/main/img/ticker%20data%20frame.png?raw=true)
 
 <br>
 
@@ -249,7 +249,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![img graph of depreciation](https://github.com/TSLSouth/US-Stocks-Behaviour-During-Financial-Crisis-2008/blob/main/img/graph%20depreciation.png?raw=true)
+![img graph of depreciation](https://github.com/TSLSouth/US-Stocks-Behaviour-During-Financial-Crisis-2008/blob/main/img/graph%20depreciation.png?raw=true#gh-light-mode)
 
 <br>
 
